@@ -10,3 +10,11 @@ Analista de Dados em formação.
 - Limpeza e transformação de dados
 - Análise de processos e indicadores
 - Criação de relatórios e dashboards
+---
+
+## 🧰 Ferramentas e Tecnologias
+- Excel (avançado)
+- Power Query (Linguagem M)
+- SQL
+- Power BI
+- Git e GitHub
